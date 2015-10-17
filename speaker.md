@@ -19,7 +19,7 @@
 - Sizden önceki sunum bittiğinde, araya çıkmadan kendi kurulumlarınızı gerçekleştirin.
 - Dinleyicilerin soru sorma algoritmasını hesaba katin ve bunu katılımcılarla sunum başında paylaşın.
 - Salaytınızda arkaplan olarak koyu renkler kullamnayın. Mümkünse beyaz üzerine siyah kullanın.
-- Slaytlar yazı ya da parağraf bulundurmasın. İnsanlar sizi dinlemek istiyor.
+- Slaytlar yazı ya da paragraf bulundurmasın. İnsanlar sizi dinlemek istiyor.
 - Kendi kendinize önceden pratik yapın ve eksiklerinizi giderin.
 - Konuşma sürenizden aştığınız her dakika, başkasının hakkına tecavüz ettiğinizi unutmayın.
 - Kendi bilgisayarınızda projeksiyon cihazlarına nasıl görüntü aktaracağınızı daha önceden biliyor olun.
