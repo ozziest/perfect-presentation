@@ -1,15 +1,14 @@
-# Kusursuz Sunum
+# Perfect Presentation
 
-Bu proje kusursuz sunumlar hazırlamak için ihtiyacınız olan adımları içermektedir. Önem sırasına ve sunumlardaki rolünüze göre hiç bir eksik nokta bırakmadan harika sunumlara imza atabilirsiniz.
+This project has got the steps which you need to make perfect presentation. If you support the project, we can make better presentation. Just read the documentation, apply all steps in your presentation and give feedback.
 
-## Roller 
+## Documentation
 
-- [Organizatör](organizer.md)
-- [Konuşmacı](speaker.md)
-- [Katılımcı](participant.md)
+- [English](english/readme.md)
+- [Türkçe](turkish/readme.md)
 
-## Katkı Sağlama
+## Contributions
 
-- Buradaki hiç bir şey genel-geçer doğrulardan ibaret değildir. Issue bölümü üzerinden her maddeyi tartışmaya açabilirsiniz.
-- Doğrudan pull-request göndererek eksik gördüğünüz başlıklar için istekte bulunabilirsiniz. 
-- Bu repoyu sosyal mecralarda paylaşarak daha çok insanın görmesini sağlayabilirsiniz.
+- There is no generally accepted truths. We may discuss every topics in the issue section.
+- You can send suggestions as a pull-request.
+- You can share the repository on the social media.
