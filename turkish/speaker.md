@@ -29,8 +29,8 @@
 ### Geliştirmeler 
 
 - Siz bir öğretmen, sunumların amacı da ders vermek değildir.
-- Herşeyi anlatmak zorunda değilsiniz.
-- Herşeyin detaylarına girmek zorunda değilsiniz.
+- Her şeyi anlatmak zorunda değilsiniz.
+- Her şeyin detaylarına girmek zorunda değilsiniz.
 - Sadece anahtar kelimeleri vermeye çalışın.
 - Seminer salonuna ilk girdiğiniz an, eğer mümkünse bilgisayarınızı projeksiyona bağlayarak deneyin.
 - Mümkünse kol saatiniz yanınıza olsun.
