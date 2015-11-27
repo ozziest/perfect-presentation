@@ -1,8 +1,8 @@
 # Perfect Presentation
 
-This project has got the steps which you need to make perfect presentation. If you support the project, we can make better presentation. Just read the documentation, apply all steps in your presentation and give feedback.
+This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. 
 
-## Documentation
+## Languages
 
 - [English](english/readme.md)
 - [Türkçe](turkish/readme.md)
