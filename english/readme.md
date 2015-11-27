@@ -1,9 +1,9 @@
-# Kusursuz Sunum
+# Perfect Presentation
 
-Bu proje kusursuz sunumlar hazırlamak için ihtiyacınız olan adımları içermektedir. Önem sırasına ve sunumlardaki rolünüze göre hiç bir eksik nokta bırakmadan harika sunumlara imza atabilirsiniz.
+This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. 
 
-## Roller 
+## Roles 
 
-- [Organizatör](organizer.md)
-- [Konuşmacı](speaker.md)
-- [Katılımcı](participant.md)
+- [Organizer](organizer.md)
+- [Speaker](speaker.md)
+- [Participant](participant.md)

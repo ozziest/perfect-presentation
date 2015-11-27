@@ -15,7 +15,6 @@
 - Kimsenin getireceği/ayarlayacağı dönüştürücüye güvenmeyin.
 - Sunumunuzu bilgisayarınızda, flash diskte ve internet ortamında ayrı ayrı yedeklerini alın.
 - İnternet bağlantısı için konferans salonunun kablosuz ağına güvenmeyin. En kötğ ihtimaller için kendi 3G bağlantınız hazır olsun.
-- Sizden önceki sunumun arasında temel ihtiyaçlarınızı giderin.
 - Sizden önceki sunum bittiğinde, araya çıkmadan kendi kurulumlarınızı gerçekleştirin.
 - Dinleyicilerin soru sorma algoritmasını hesaba katin ve bunu katılımcılarla sunum başında paylaşın.
 - Salaytınızda arkaplan olarak koyu renkler kullamnayın. Mümkünse beyaz üzerine siyah kullanın.
@@ -41,7 +40,6 @@
 - Slaytlarda zaman yeterse anlatılacak ek başlıkları belirtin, zamanın yetmemesi durumu için konu başlıklarına bağlatı verin.
 - Slayt girişine QR kod ekleyin.
 - Slayt ile ilgili bir blog yazısı oluşturun.
-- Uzun metinler için özel linkleme yapın.
 - Aşılan süreler için özür dilemeyin. Kendinizi bu konuda geliştirmeye bakın.
 - Sıranız gelmeden önce sahnede en iyi nasıl görüneceğinizi tespit edin.
 - Sürenizi aşmaktansa sunumunuzu kesmeyi tercih edin.

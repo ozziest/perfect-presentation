@@ -1,22 +1,22 @@
-# Organizatör
+# Organizer
 
-### Kritik
+### Critical
 
-- Sunum anında kalan süreyi konuşmacıya gosteren bir sayaç oluşturun.
-- Slayt geçici cihaz için yedek pil teminatı yapın.
-- Süre moderasyonu konusunda muhakkak bir görevliniz olsun.
-- Ses sistemi kullanılacaksa önceden gerekli altyapıyı hazırlayın.
-- Mikrofonlarin farkli türlerdeki pilleri için ayrı ayrı yedek hazırlayın ve etkinlik sabahı tüm pilleri yenileyin.
+- You should prepare a counter which shows the remaining time to speaker.
+- You should provide a replacement battery for the device which is used to change slides.
+- There must be a person who manages presentation timing.
+- You should prepare a sound system if it will be used.
+- You should provide a replacement battery to microphones for every different type of battery and you must change all batteries at the beginning of the day.
 
-### Önemli
+### Important
 
-- Ara süresi her ara için standart olsun.
-- Konuşmacı başvuruları kabul ederken, konuşmacılardan mutlaka konuşma süresini belirlemelerini isteyin.
-- Sunum başlangıç-bitişlerinde sahnede sadece görevlilerin olmasına özel gösterin. Kargaşalar olası aksiliklerin yaşanmasını tetikleyecektir.
-- Video kayıtları için teknik personelinizin ihtiyaclarını iyi belirleyin. 
+- There must be a standard intermission time for all intermissions.
+- When you accept applications, you should demand the time of the presentation from the speaker.
+- Before or after the presentation, you should take care that there is only person who is presenting on the stage. Chaos will trigger mishaps which can be a disaster.
+- You should have trained personal if you will use recorded video.
 
-### Geliştirmeler
+### Development
 
-- Tüm gün sürecek etkinlikler dinleyici için çok yorucudur. Bir gün içinde 5 saatten fazla sunum planlamayın.
-- Bırakın insanlar birbiriyle tanışsın, araları uzun tutmak bir çok işbirliğine sebep olabilir.
-- Etkinlik öncesi havalandırma sisteminin çalışır olduğundan ve katılımcılara yeteceğinden emin olun.
+- Events which will be held all day are very hard for participants. You shouldn't have a plan which contains presantations over 5 hours.
+- Let the people meet each other. Long intermissions can create powerful cooperation.
+- You should be sure that air conditioning system is at the right temperature.
