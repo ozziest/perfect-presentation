@@ -1,6 +1,6 @@
 # Organizatör
 
-### Kritik
+### Kritik
 
 - Sunum anında kalan süreyi konuşmacıya gosteren bir sayaç oluşturun.
 - Slayt geçici cihaz için yedek pil teminatı yapın.
