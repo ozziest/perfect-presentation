@@ -1,6 +1,6 @@
 # Organizer
 
-### Critical
+### Critical
 
 - You should prepare a counter which shows the remaining time to speaker.
 - You should provide a replacement battery for the device which is used to change slides.
