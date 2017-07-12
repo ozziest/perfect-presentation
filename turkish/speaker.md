@@ -1,6 +1,6 @@
-# Konuşmacı
+# Konuşmacı
 
-### Kritik
+### Kritik
 
 - Sürenizin ne kadar olduğundan sunum öncesinde emin olun.
 - Sürenizin 1/3'ünün sorularla geçeceğini hesaplarınıza dahil edin.
@@ -10,7 +10,7 @@
 - Sizden öncekilerin süreyi aşmış olması, size de aşma hakkını vermez.
 - Kod gösterileceği zaman arka fonun koyu renk olması sorun yaratabilir. Beyaz arka fon ve büyük puntoları tercih edin.
 
-### Önemli
+### Önemli
 
 - Kimsenin getireceği/ayarlayacağı dönüştürücüye güvenmeyin.
 - Sunumunuzu bilgisayarınızda, flash diskte ve internet ortamında ayrı ayrı yedeklerini alın.
